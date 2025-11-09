@@ -1,0 +1,30 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+h1, h2 {
+  color: darkblue;
+}
+
+nav {
+  background-color: lightgray;
+  padding: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  margin: 10px;
+  color: black;
+}
+
+nav a:hover {
+  color: blue;
+}
+
+.container {
+  background-color: white;
+  padding: 15px;
+  margin: 20px;
+}
